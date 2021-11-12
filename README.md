@@ -1,6 +1,12 @@
 # ThreeJS-Try
 
-With the help of Webpack, try to develop ThreeJS now!
+## Demo page
+
+**https://tommy-iasia.github.io/threejs-try/**
+
+## Local
+
+Webpack is prepared. Just install and run with NodeJS.
 
 ```
 npm i
