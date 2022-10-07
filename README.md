@@ -1,12 +1,20 @@
-# ThreeJS-Try
+# threejs-first
 
-**https://tommy-iasia.github.io/threejs-try/**
+This is another xxx-first project for quick project startup - ThreeJS this time.
 
-![preivew](https://tommy-iasia.github.io/threejs-try/preview.png)
+## Preview
 
-Webpack is prepared. Just install and run with NodeJS.
+https://tommyinb.github.io/threejs-first/
+
+![preview](https://tommyinb.github.io/threejs-first/preview.png)
+
+## Start
+
+Just run the project with NodeJS and Webpack
 
 ```
 npm i
 npm run start
 ```
+
+Then edit **first.ts**, **camera.ts** or **lighting.ts** as you wish.
